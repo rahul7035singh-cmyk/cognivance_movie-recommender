@@ -1,0 +1,51 @@
+movie_id,title,year,genres
+1,The Matrix,1999,Action|Sci-Fi|Thriller
+2,Inception,2010,Action|Sci-Fi|Thriller
+3,Interstellar,2014,Adventure|Drama|Sci-Fi
+4,The Dark Knight,2008,Action|Crime|Drama
+5,Toy Story,1995,Animation|Comedy|Family
+6,Finding Nemo,2003,Animation|Adventure|Family
+7,The Godfather,1972,Crime|Drama
+8,Pulp Fiction,1994,Crime|Thriller
+9,Forrest Gump,1994,Comedy|Drama|Romance
+10,Titanic,1997,Drama|Romance
+11,The Notebook,2004,Drama|Romance
+12,La La Land,2016,Comedy|Drama|Romance|Musical
+13,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi
+14,John Wick,2014,Action|Crime|Thriller
+15,The Hangover,2009,Comedy
+16,Superbad,2007,Comedy
+17,Get Out,2017,Horror|Thriller|Mystery
+18,The Conjuring,2013,Horror|Mystery|Thriller
+19,A Quiet Place,2018,Horror|Sci-Fi|Thriller
+20,Parasite,2019,Comedy|Drama|Thriller
+21,Spirited Away,2001,Animation|Adventure|Family|Fantasy
+22,The Lion King,1994,Animation|Adventure|Drama|Family|Musical
+23,Frozen,2013,Animation|Adventure|Comedy|Family|Musical
+24,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy|Action
+25,Harry Potter and the Sorcerer's Stone,2001,Adventure|Family|Fantasy
+26,Gladiator,2000,Action|Adventure|Drama
+27,Braveheart,1995,Action|Biography|Drama|History
+28,Schindler's List,1993,Biography|Drama|History
+29,The Shawshank Redemption,1994,Drama|Crime
+30,Fight Club,1999,Drama|Thriller
+31,Se7en,1995,Crime|Mystery|Thriller
+32,The Silence of the Lambs,1991,Crime|Drama|Thriller|Horror
+33,Avengers: Endgame,2019,Action|Adventure|Sci-Fi
+34,Iron Man,2008,Action|Adventure|Sci-Fi
+35,Blade Runner 2049,2017,Drama|Mystery|Sci-Fi
+36,Arrival,2016,Drama|Mystery|Sci-Fi
+37,Knives Out,2019,Comedy|Crime|Mystery
+38,Gone Girl,2014,Drama|Mystery|Thriller
+39,Coco,2017,Animation|Adventure|Family|Fantasy|Musical
+40,Up,2009,Animation|Adventure|Comedy|Family
+41,Whiplash,2014,Drama|Musical
+42,The Social Network,2010,Biography|Drama
+43,Dune,2021,Action|Adventure|Sci-Fi|Drama
+44,Crazy Rich Asians,2018,Comedy|Drama|Romance
+45,Bridesmaids,2011,Comedy|Romance
+46,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller
+47,Back to the Future,1985,Adventure|Comedy|Sci-Fi
+48,The Prestige,2006,Drama|Mystery|Sci-Fi|Thriller
+49,Mamma Mia!,2008,Comedy|Musical|Romance
+50,Casablanca,1942,Drama|Romance|History
